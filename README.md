@@ -11,7 +11,7 @@
 
 **A comprehensive sentiment analysis study examining public perception of NFT markets through social media data**
 
-[View Full Report](#) • [Research Paper](link-to-paper) • [LinkedIn](your-linkedin)
+[View Full Report](#) • [Research Paper](https://github.com/pooja-singh702/Impact-of-Social-Media-on-Digital-Asset-Markets-Sentiment-Analaysis) 
 
 </div>
 
