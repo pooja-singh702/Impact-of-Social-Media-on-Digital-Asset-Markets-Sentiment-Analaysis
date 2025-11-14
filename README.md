@@ -174,13 +174,4 @@ The analysis captured a critical period (February-June 2022) that included:
 
 ```
 
----
 
-
-<div align="center">
-
-**Built with Python, NLTK, VADER, and Twitter API**
-
-*Analyzing digital asset markets through the lens of social sentiment*
-
-</div>
